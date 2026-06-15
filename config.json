@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-and-refactoring-python-code",
+      "title": "Testing and Refactoring Python Code",
+      "description": "Write tests with pytest, fix bugs, and refactor Python functions while preserving behavior.",
+      "path": "assignments/testing-and-refactoring-python-code",
+      "dueDate": "2026-06-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Test File",
+          "file": "test_starter_code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
